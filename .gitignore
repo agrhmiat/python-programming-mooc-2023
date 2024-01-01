@@ -1,5 +1,6 @@
 *.tmcproject.yml
 *~
+*.swp
 __pycache__/
 test/
 tmc/
