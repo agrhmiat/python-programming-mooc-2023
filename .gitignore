@@ -1,0 +1,5 @@
+*.tmcproject.yml
+*~
+__pycache__/
+test/
+tmc/
